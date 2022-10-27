@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class TestLeapYear {
+public class TestCase {
 
     @Test
     public void Years_Divisible_By_400_Are_Leap_Years() {
